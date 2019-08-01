@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="430795" started-at="2019-08-01T10:18:37Z" finished-at="2019-08-01T10:25:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="430795" started-at="2019-08-01T10:18:37Z" finished-at="2019-08-01T10:25:48Z">
+      <class name="demoIE.testCasesIE">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:demoIE.testCasesIE@2f7c2f4f]" name="openBrowser" is-config="true" duration-ms="10111" started-at="2019-08-01T10:18:37Z" finished-at="2019-08-01T10:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testCase1_SubmitFormWithoutFillingDetailAndRequiredLabelShouldPrintOnConsole()[pri:1, instance:demoIE.testCasesIE@2f7c2f4f]" name="testCase1_SubmitFormWithoutFillingDetailAndRequiredLabelShouldPrintOnConsole" duration-ms="11984" started-at="2019-08-01T10:18:47Z" finished-at="2019-08-01T10:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1_SubmitFormWithoutFillingDetailAndRequiredLabelShouldPrintOnConsole -->
+        <test-method status="PASS" signature="testCase2_VerifyImageUploadFunctionality()[pri:2, instance:demoIE.testCasesIE@2f7c2f4f]" name="testCase2_VerifyImageUploadFunctionality" duration-ms="21050" started-at="2019-08-01T10:18:59Z" finished-at="2019-08-01T10:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_VerifyImageUploadFunctionality -->
+        <test-method status="PASS" signature="testcase3_SubmitFormAfterFillingAllDetailsProperly()[pri:3, instance:demoIE.testCasesIE@2f7c2f4f]" name="testcase3_SubmitFormAfterFillingAllDetailsProperly" duration-ms="387577" started-at="2019-08-01T10:19:20Z" finished-at="2019-08-01T10:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3_SubmitFormAfterFillingAllDetailsProperly -->
+      </class> <!-- demoIE.testCasesIE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
